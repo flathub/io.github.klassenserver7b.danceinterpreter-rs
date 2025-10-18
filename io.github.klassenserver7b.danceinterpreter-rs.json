@@ -1,7 +1,7 @@
 {
     "app-id": "io.github.klassenserver7b.danceinterpreter-rs",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "24.08",
+    "runtime-version": "25.08",
     "sdk": "org.freedesktop.Sdk",
     "sdk-extensions" : [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -39,7 +39,7 @@
                 {
                     "type":   "git",
                     "url":    "https://github.com/klassenserver7b/danceinterpreter-rs",
-                    "commit": "2881f71bef80b12f0565453322143b2c44a890aa"
+                    "commit": "ebc2f298e2c26ef03e85d5d01729af1cb7bc1e67"
                 },
                 "cargo-sources.json"
             ]
