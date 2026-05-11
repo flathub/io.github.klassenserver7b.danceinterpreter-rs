@@ -13,6 +13,8 @@
         "--socket=fallback-x11",
         "--device=dri",
         "--filesystem=xdg-music:ro",
+	"--filesystem=/media",
+	"--filesystem=/run/media",
         "--share=network"
     ],
     "build-options": {
@@ -39,7 +41,7 @@
                 {
                     "type":   "git",
                     "url":    "https://github.com/klassenserver7b/danceinterpreter-rs",
-                    "commit": "ddbe804572d60dfb717268b628a21501e9f9287d"
+                    "commit": "874033053c6e2e247e29360f84c6b09e045f7cd0"
                 },
                 "cargo-sources.json"
             ]
