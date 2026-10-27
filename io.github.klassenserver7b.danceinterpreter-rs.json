@@ -41,7 +41,7 @@
                 {
                     "type":   "git",
                     "url":    "https://github.com/klassenserver7b/danceinterpreter-rs",
-                    "commit": "e753e35f8e0525ec98a403f0ee9b3d4066c9970e"
+                    "commit": "1c22f18fb27ceab35117c576c8fde2b5ed16a970"
                 },
                 "cargo-sources.json"
             ]
